@@ -1,6 +1,6 @@
 {
-  "name": "jsencrypt",
-  "version": "3.0.0-rc.1",
+  "name": "jsencryptyunu",
+  "version": "3.0.1-yu.1",
   "description": "A Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.",
   "license": "MIT",
   "main": "bin/jsencrypt.js",
@@ -22,13 +22,13 @@
       "url": "https://github.com/jmgaya"
     }
   ],
-  "homepage": "http://www.travistidwell.com/jsencrypt",
+  "homepage": "",
   "repository": {
     "type": "git",
-    "url": "git://github.com/travist/jsencrypt.git"
+    "url": "git://github.com/devsun965/jsencrypt.git"
   },
   "bugs": {
-    "url": "http://github.com/travist/jsencrypt/issues"
+    "url": "http://github.com/devsun965/jsencrypt/issues"
   },
   "devDependencies": {
     "expect.js": "^0.3.1",
